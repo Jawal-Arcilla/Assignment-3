@@ -2,6 +2,7 @@
   color: lightblue;
   font-family: 'Courier New', Courier, monospace;
   size: 20px;
+  text-align: center;
 }
 
 .timeline {
@@ -37,4 +38,10 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   size: 14px;
   text-align: center;
+}
+
+.edward {
+  width: 30%;
+  height: 30%;
+  padding: 10px;
 }
